@@ -1,0 +1,11 @@
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+.idea/workspace.xml
+.idea/misc.xml
+.env
+.env.*
+temp_*.mp3
+temp_*.wav
+.cache/
